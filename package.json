@@ -33,7 +33,7 @@
     "parley": "^3.3.2",
     "prompt": "0.2.14",
     "sails-disk": "^1.0.0-0",
-    "waterline": "^0.13.5-0",
+    "waterline": "git://github.com/gstreetmedia/waterline.git#6447fa8e1e5e293c9c32daf6474fc5255bb49e52",
     "waterline-utils": "^1.0.0"
   },
   "sails": {
